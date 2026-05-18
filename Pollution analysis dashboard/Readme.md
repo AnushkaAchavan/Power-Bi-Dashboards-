@@ -9,6 +9,8 @@ A Power BI dashboard providing comprehensive insights into traffic incidents, co
  
 ### Main Dashboard
 ![Dashboard Preview](dashboard.png)
+
+### Schema of dashboard
 ![Data Model](Schemaofmodel.png)
  
 ---
